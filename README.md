@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Abhishek-Chintalapati
-- 💞️ I’m looking to collaborate on nosql graph databases 
+- 💞️ I’m looking to collaborate on nosql databases 
 - 📫 Lets connect https://www.linkedin.com/in/abhishek-chintalapati/ 
 
 <!---
